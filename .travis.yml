@@ -15,4 +15,4 @@ cache:
   - $HOME/Bureau/MGL/Unit\ testing/gradle/
 
 script:
-  - ./gradlew test
+  - ./gradlew build test
